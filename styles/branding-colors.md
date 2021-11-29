@@ -13,9 +13,9 @@
 
 ## Graph and Chart Color Palette
 The following gradient color palette has been selected for general design of graphs and charts to ensure the most accessible color palette. 
-* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/c4deff?style=circle'/></a>: #c4deff
-* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/95b1fc?style=circle'/></a>: #95b1fc
-* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/6c89d1?style=circle'/></a>: #6c89d1
-* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/4164a8?style=circle'/></a>: #4164a8
-* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/074181?style=circle'/></a>: #074181
-* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/001d56?style=circle'/></a>: #001d56
+* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/c4deff?style=circle'/></a> #c4deff
+* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/95b1fc?style=circle'/></a> #95b1fc
+* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/6c89d1?style=circle'/></a> #6c89d1
+* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/4164a8?style=circle'/></a> #4164a8
+* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/074181?style=circle'/></a> #074181
+* <a href='#'><img valign='bottom' alt='' src='https://readme-swatches.vercel.app/001d56?style=circle'/></a> #001d56
