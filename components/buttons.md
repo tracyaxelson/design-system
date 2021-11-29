@@ -2,7 +2,7 @@
 
 ## When to Use Buttons
 
-The <button> HTML element represents a clickable button, used to submit forms or anywhere in a document for accessible, standard button functionality.
+The Button HTML element represents a clickable button, used to submit forms or anywhere in a document for accessible, standard button functionality.
 
 ## Primary and Secondary Buttons
 
