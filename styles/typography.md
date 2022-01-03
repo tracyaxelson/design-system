@@ -13,7 +13,7 @@ All headings should use the [Montserrat font](https://fonts.google.com/specimen/
 
 ## Body Content 
 ### Typeface
-All body content should use the Open Sans font.
+All body content should use the [Open Sans font](https://fonts.google.com/specimen/Open+Sans).
 
 ### Style Guidelines
 - All bulleted content should use built-in ordered and unordered bullet styles.
