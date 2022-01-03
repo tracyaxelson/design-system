@@ -1,5 +1,5 @@
 # Styles
 
-* [Branding Color Palette](/design-system/styles/branding-colors)
+* [Branding Color Palette](/design-system/styles/color-palette)
 * Spacing
-* Typography 
+* [Typography](/design-system/styles/typography)
