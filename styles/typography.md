@@ -2,7 +2,7 @@
 
 ## Headings
 ### Typeface
-All headings should use the Montserrat font.
+All headings should use the [Montserrat font](https://fonts.google.com/specimen/Montserrat).
 
 ### Font Size and Color
 
