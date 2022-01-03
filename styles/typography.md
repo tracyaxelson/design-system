@@ -19,3 +19,4 @@ All body content should use the Open Sans font.
 - All bulleted content should use built-in ordered and unordered bullet styles.
 - Use bold to emphasize content.
 - Do not change built-in font colors if you have access to do so - we can not look down all systems. 
+- Text alignment should remain at the default of aligned-left, which is the most readable alignment. 
